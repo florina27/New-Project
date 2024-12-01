@@ -4,22 +4,22 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+The "Painting with AI" project involves using artificial intelligence (AI) tools to create, enhance, or inspire artistic works, combining human creativity with machine-generated outputs. This project typically explores how AI can contribute to visual arts by generating images, offering stylistic transformations, or assisting artists in refining their work. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Discuss the evolution of AI in creative fields, particularly in visual arts. Highlight key milestones, such as generative models, and how AI tools have opened new possibilities for artists and hobbyists alike.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Explore practical applications:
+
+AI-assisted painting for creating original artworks.
+Style transfer to mimic famous artists’ techniques.
+Concept generation for artists to refine manually.
+Commercial uses like illustrations and advertising
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -48,23 +48,27 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+Explain the data used (public datasets or curated collections) and the specific AI methods employed:
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Neural networks like GANs, VAEs, or transformers.
+Pre-trained models (e.g., DALL·E, Stable Diffusion).
+Tools and libraries such as PyTorch or TensorFlow.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Highlight technical and artistic challenges, such as:
+
+Balancing creativity and coherence.
+Data quality and biases.
+Computational requirements.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Discuss future developments:
 
+Enhancing interactivity for artists.
+Integrating with AR/VR.
+Exploring ethical and copyright considerations.
 
 ## Acknowledgments
 
